@@ -71,3 +71,4 @@
 \- `random_forest.xlsx` — данные для Random Forest
 
 \- `My_results-SBER_results` — изображение, отображающее полученный прогноз в сравнении с результатом СБЕРа
+https://colab.research.google.com/github/StebunovDenis-spb/PredictingPriceFlatPetergof/blob/main/Untitled.ipynb
